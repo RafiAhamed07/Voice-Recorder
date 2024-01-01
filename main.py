@@ -34,7 +34,7 @@ def main_window():
     root = Tk()
     root.geometry("500x300")
     root.title("Voice Recorder")
-    root.iconbitmap("voice-recorder-icon.ico")
+    root.iconbitmap("voice-recorder.ico")
     root.resizable(False, False)
     root.config(bg="#424a57")
 
